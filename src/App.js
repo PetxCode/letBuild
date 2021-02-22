@@ -9,6 +9,8 @@ function App() {
         <p>with Peter: CodeLab </p>
         <p>Pushing up to Firebase </p>
         <p>Which is faster...!</p>
+        <p>Which is faster...!</p>
+        <p>Which is faster...!</p>
       </header>
     </div>
   );

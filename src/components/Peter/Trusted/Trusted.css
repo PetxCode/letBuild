@@ -1,0 +1,16 @@
+.trust {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+}
+
+.brands {
+  width: 150px;
+  height: 100px;
+  margin: 20px 40px;
+  object-fit: contain;
+}
+.bgColr {
+  background-color: #edf8ff;
+}

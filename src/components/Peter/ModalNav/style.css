@@ -1,0 +1,25 @@
+.style {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80vw;
+  height: 60vh;
+  justify-content: center;
+}
+
+.style__image {
+  width: 300px;
+  background-color: red;
+  height: 200px;
+  object-fit: contain;
+}
+
+.style__imageContent {
+  width: 300px;
+  background-color: red;
+  height: 100%;
+  object-fit: contain;
+}
+.style__content {
+  width: 300px;
+  background-color: blue;
+}
